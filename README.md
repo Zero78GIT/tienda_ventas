@@ -1,0 +1,11 @@
+este sistema aun esta en proceso dado que es un sistema de una venta online
+-- incluye lo que es la landin page de inicio
+--- de segundo agregar al carrito
+-- tercero los card con el boton para agregar al carrito 
+-- aun no cuenta con base de datos dado que es iniciado y prueba
+-- al agregar al carrito se veran los productos agregados sin las imagenes
+-- incluye en el carrito lo que es el quitar del carrito
+--- vaciar carrito
+-- sistema para paypal 
+---  que puedes ver el modelo en paypal al crear una cuenta de empresa.. y hacer una muestra no real sino demo para ver si  funciona
+--- esepero sirva de algo
